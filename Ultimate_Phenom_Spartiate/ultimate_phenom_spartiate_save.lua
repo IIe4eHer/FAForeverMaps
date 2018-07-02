@@ -2343,2163 +2343,2163 @@ Scenario = {
                         orders = '',
                         platoon = '',
                         Units = {
-                            ['UNIT_149'] = {
+                            ['UNIT_1'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 287.5, 19.00116, 261.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_79'] = {
+                            ['UNIT_2'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 288.5, 19.03632, 240.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3574'] = {
+                            ['UNIT_3'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 221.5, 19.00116, 228.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_192'] = {
+                            ['UNIT_4'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 228.5, 19.00116, 236.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_3565'] = {
+                            ['UNIT_5'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 273.5, 19.05194, 214.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_176'] = {
+                            ['UNIT_6'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 227.5, 19.00116, 233.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_3533'] = {
+                            ['UNIT_7'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 278.5, 19.00116, 271.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_58'] = {
+                            ['UNIT_8'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 222.5, 19.00116, 269.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_3561'] = {
+                            ['UNIT_9'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 284.5, 19.00116, 233.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_20'] = {
+                            ['UNIT_10'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 210.5, 19.00116, 233.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_130'] = {
+                            ['UNIT_11'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 278.5, 19.00116, 216.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_185'] = {
+                            ['UNIT_12'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 283.5, 19.00116, 276.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_12'] = {
+                            ['UNIT_13'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 212.5, 19.00116, 232.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_3552'] = {
+                            ['UNIT_14'] = {
                                 type = 'UEB3201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 288.5, 19.00116, 266.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_3522'] = {
+                            ['UNIT_15'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 271.5, 19.0832, 219.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_3583'] = {
+                            ['UNIT_16'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 206.5, 19.02851, 241.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_139'] = {
+                            ['UNIT_17'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 233.5, 19.00116, 293.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_3571'] = {
+                            ['UNIT_18'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 220.5, 19.00116, 228.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_202'] = {
+                            ['UNIT_19'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 246.5, 19.00116, 296.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_168'] = {
+                            ['UNIT_20'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 228.5, 19.00116, 232.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_147'] = {
+                            ['UNIT_21'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 236.5, 19.00116, 296.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_170'] = {
+                            ['UNIT_22'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 248.5, 19.00116, 297.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_138'] = {
+                            ['UNIT_23'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 278.5, 19.00507, 218.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_196'] = {
+                            ['UNIT_24'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 228.5, 19.00116, 237.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3525'] = {
+                            ['UNIT_25'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 280.5, 19.04413, 221.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_5'] = {
+                            ['UNIT_26'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 300.5, 19.00116, 279.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3544'] = {
+                            ['UNIT_27'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 305.5, 19.00116, 270.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_113'] = {
+                            ['UNIT_28'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 282.5, 19.00116, 262.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_80'] = {
+                            ['UNIT_29'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 211.5, 19.00116, 249.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_62'] = {
+                            ['UNIT_30'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 224.5, 19.00116, 269.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_151'] = {
+                            ['UNIT_31'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 237.5, 19.00116, 296.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_14'] = {
+                            ['UNIT_32'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 224.5, 19.00116, 286.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_178'] = {
+                            ['UNIT_33'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 249.5, 19.00116, 295.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_154'] = {
+                            ['UNIT_34'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 278.5, 19.00897, 219.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_181'] = {
+                            ['UNIT_35'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 282.5, 19.00116, 277.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_102'] = {
+                            ['UNIT_36'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 227.5, 19.00116, 270.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_165'] = {
+                            ['UNIT_37'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 283.5, 19.00116, 279.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_207'] = {
+                            ['UNIT_38'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 266.5, 19.32149, 215.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_100'] = {
+                            ['UNIT_39'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 214.5, 19.00116, 250.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_144'] = {
+                            ['UNIT_40'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 226.5, 19.00116, 250.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_204'] = {
+                            ['UNIT_41'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 225.5, 19.00116, 233.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_206'] = {
+                            ['UNIT_42'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 245.5, 19.00116, 296.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_65'] = {
+                            ['UNIT_43'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 299.5, 19.00116, 261.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_115'] = {
+                            ['UNIT_44'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 232.5, 19.00116, 295.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_3529'] = {
+                            ['UNIT_45'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 240.5, 19.00116, 292.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_73'] = {
+                            ['UNIT_46'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 301.5, 19.00116, 262.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_36'] = {
+                            ['UNIT_47'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 211.5, 19.00116, 236.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_95'] = {
+                            ['UNIT_48'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 286.5, 19.00116, 241.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_189'] = {
+                            ['UNIT_49'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 283.5, 19.00116, 275.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_198'] = {
+                            ['UNIT_50'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 247.5, 19.00116, 296.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_3562'] = {
+                            ['UNIT_51'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 278.5, 19.00116, 270.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3513'] = {
+                            ['UNIT_52'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 228.5, 19.00116, 287.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_40'] = {
+                            ['UNIT_53'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 213.5, 19.00116, 233.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_24'] = {
+                            ['UNIT_54'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 210.5, 19.00116, 234.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_59'] = {
+                            ['UNIT_55'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 289.5, 19.07929, 242.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_94'] = {
+                            ['UNIT_56'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 225.5, 19.00116, 270.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_88'] = {
+                            ['UNIT_57'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 211.5, 19.00116, 247.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_148'] = {
+                            ['UNIT_58'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 225.5, 19.00116, 250.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3580'] = {
+                            ['UNIT_59'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 283.5, 19.06757, 224.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_3586'] = {
+                            ['UNIT_60'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 227.5, 19.00116, 277.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_3540'] = {
+                            ['UNIT_61'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 219.5, 19.00116, 255.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_96'] = {
+                            ['UNIT_62'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 213.5, 19.00116, 250.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_3535'] = {
+                            ['UNIT_63'] = {
                                 type = 'UEB3201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 275.5, 19.01678, 229.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_3517'] = {
+                            ['UNIT_64'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 221.5, 19.00116, 255.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3515'] = {
+                            ['UNIT_65'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 291.5, 19.00116, 256.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_356'] = {
+                            ['UNIT_66'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 244.5, 19.00116, 297.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_163'] = {
+                            ['UNIT_67'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 261.5, 19.14961, 214.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_54'] = {
+                            ['UNIT_68'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 223.5, 19.00116, 269.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_116'] = {
+                            ['UNIT_69'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 229.5, 19.04804, 249.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_4'] = {
+                            ['UNIT_70'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 210.5, 19.00116, 232.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_3559'] = {
+                            ['UNIT_71'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 289.5, 19.00897, 230.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_152'] = {
+                            ['UNIT_72'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 224.5, 19.00116, 250.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_3568'] = {
+                            ['UNIT_73'] = {
                                 type = 'UEB1201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 216.5, 19.00116, 239.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_92'] = {
+                            ['UNIT_74'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 211.5, 19.00116, 246.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_135'] = {
+                            ['UNIT_75'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 233.5, 19.00116, 294.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_354'] = {
+                            ['UNIT_76'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 229.5, 19.00116, 288.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_191'] = {
+                            ['UNIT_77'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 262.5, 19.21992, 218.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_173'] = {
+                            ['UNIT_78'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 284.5, 19.00116, 278.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_111'] = {
+                            ['UNIT_79'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 232.5, 19.00116, 296.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_3530'] = {
+                            ['UNIT_80'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 305.5, 19.00116, 269.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_23'] = {
+                            ['UNIT_81'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 289.5, 19.01678, 226.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3545'] = {
+                            ['UNIT_82'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 282.5, 19.07929, 223.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3551'] = {
+                            ['UNIT_83'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 290.5, 19.00116, 256.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_104'] = {
+                            ['UNIT_84'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 215.5, 19.00116, 250.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_61'] = {
+                            ['UNIT_85'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 299.5, 19.00116, 260.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_16'] = {
+                            ['UNIT_86'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 212.5, 19.00116, 233.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_179'] = {
+                            ['UNIT_87'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 262.5, 19.21602, 216.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_82'] = {
+                            ['UNIT_88'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 223.5, 19.00116, 272.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_112'] = {
+                            ['UNIT_89'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 229.5, 19.05976, 250.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_74'] = {
+                            ['UNIT_90'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 222.5, 19.00116, 271.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3570'] = {
+                            ['UNIT_91'] = {
                                 type = 'UEB1201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 295.5, 19.00116, 272.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_27'] = {
+                            ['UNIT_92'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 288.5, 19.01678, 226.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_190'] = {
+                            ['UNIT_93'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 249.5, 19.00116, 293.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_29'] = {
+                            ['UNIT_94'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 300.5, 19.00116, 276.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_69'] = {
+                            ['UNIT_95'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 301.5, 19.00116, 261.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_3534'] = {
+                            ['UNIT_96'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 206.5, 19.02851, 242.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_3554'] = {
+                            ['UNIT_97'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 267.5, 19.31368, 214.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_87'] = {
+                            ['UNIT_98'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 288.5, 19.02069, 238.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_172'] = {
+                            ['UNIT_99'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 227.5, 19.00116, 232.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_7'] = {
+                            ['UNIT_100'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 288.5, 19.03632, 224.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3518'] = {
+                            ['UNIT_101'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 270.5, 19.13398, 219.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3511'] = {
+                            ['UNIT_102'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 231.5, 19.00116, 290.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_3514'] = {
+                            ['UNIT_103'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 278.5, 19.00116, 268.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_66'] = {
+                            ['UNIT_104'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 224.5, 19.00116, 270.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_153'] = {
+                            ['UNIT_105'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 283.5, 19.00116, 265.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_180'] = {
+                            ['UNIT_106'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 228.5, 19.00116, 234.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_187'] = {
+                            ['UNIT_107'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 262.5, 19.21992, 217.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_155'] = {
+                            ['UNIT_108'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 233.5, 19.00116, 292.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_67'] = {
+                            ['UNIT_109'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 287.5, 19.01288, 241.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_34'] = {
+                            ['UNIT_110'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 223.5, 19.00116, 283.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_129'] = {
+                            ['UNIT_111'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 283.5, 19.00116, 262.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_28'] = {
+                            ['UNIT_112'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 211.5, 19.00116, 234.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_35'] = {
+                            ['UNIT_113'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 288.5, 19.02069, 228.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_174'] = {
+                            ['UNIT_114'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 248.5, 19.00116, 296.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_3521'] = {
+                            ['UNIT_115'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 238.5, 19.00116, 297.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_57'] = {
+                            ['UNIT_116'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 301.5, 19.00507, 260.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_357'] = {
+                            ['UNIT_117'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 233.5, 19.05585, 240.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_121'] = {
+                            ['UNIT_118'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 284.5, 19.00116, 260.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_114'] = {
+                            ['UNIT_119'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 279.5, 19.00116, 216.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_101'] = {
+                            ['UNIT_120'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 296.5, 19.00116, 261.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_42'] = {
+                            ['UNIT_121'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 226.5, 19.00116, 286.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_166'] = {
+                            ['UNIT_122'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 249.5, 19.00116, 297.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_47'] = {
+                            ['UNIT_123'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 288.5, 19.00897, 229.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3582'] = {
+                            ['UNIT_124'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 305.5, 19.00116, 271.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_51'] = {
+                            ['UNIT_125'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 284.5, 19.06366, 225.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_199'] = {
+                            ['UNIT_126'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 264.5, 19.27852, 215.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_3560'] = {
+                            ['UNIT_127'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 241.5, 19.00116, 292.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_200'] = {
+                            ['UNIT_128'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 226.5, 19.00116, 233.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_107'] = {
+                            ['UNIT_129'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 232.5, 19.00116, 297.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_3523'] = {
+                            ['UNIT_130'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 206.5, 19.02069, 243.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_98'] = {
+                            ['UNIT_131'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 226.5, 19.00116, 270.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3588'] = {
+                            ['UNIT_132'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 279.5, 19.02851, 220.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_161'] = {
+                            ['UNIT_133'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 282.5, 19.00116, 279.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_128'] = {
+                            ['UNIT_134'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 227.5, 19.01288, 250.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_48'] = {
+                            ['UNIT_135'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 211.5, 19.00116, 237.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_3520'] = {
+                            ['UNIT_136'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 233.5, 19.05976, 242.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_3577'] = {
+                            ['UNIT_137'] = {
                                 type = 'UEB3201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 223.5, 19.00116, 245.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_3528'] = {
+                            ['UNIT_138'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 281.5, 19.06366, 222.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3572'] = {
+                            ['UNIT_139'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 232.5, 19.00116, 291.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_43'] = {
+                            ['UNIT_140'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 285.5, 19.05585, 225.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_175'] = {
+                            ['UNIT_141'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 263.5, 19.24727, 215.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_3516'] = {
+                            ['UNIT_142'] = {
                                 type = 'UEB3201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 236.5, 19.00116, 282.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_71'] = {
+                            ['UNIT_143'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 289.5, 19.07148, 241.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_44'] = {
+                            ['UNIT_144'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 214.5, 19.00116, 233.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_32'] = {
+                            ['UNIT_145'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 211.5, 19.00116, 235.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_41'] = {
+                            ['UNIT_146'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 297.5, 19.00116, 278.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_3579'] = {
+                            ['UNIT_147'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 220.5, 19.00116, 255.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_75'] = {
+                            ['UNIT_148'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 289.5, 19.05976, 240.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_125'] = {
+                            ['UNIT_149'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 284.5, 19.00116, 261.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_55'] = {
+                            ['UNIT_150'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 288.5, 19.05194, 242.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_3567'] = {
+                            ['UNIT_151'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 305.5, 19.00116, 268.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_17'] = {
+                            ['UNIT_152'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 301.5, 19.00116, 278.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_52'] = {
+                            ['UNIT_153'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 215.5, 19.00116, 233.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_169'] = {
+                            ['UNIT_154'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 284.5, 19.00116, 279.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_108'] = {
+                            ['UNIT_155'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 229.5, 19.05976, 251.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_53'] = {
+                            ['UNIT_156'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 300.5, 19.00116, 260.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_3558'] = {
+                            ['UNIT_157'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 222.5, 19.00116, 281.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_183'] = {
+                            ['UNIT_158'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 261.5, 19.16914, 216.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_355'] = {
+                            ['UNIT_159'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 222.5, 19.00116, 275.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_3519'] = {
+                            ['UNIT_160'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 233.5, 19.05585, 241.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_85'] = {
+                            ['UNIT_161'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 300.5, 19.00116, 264.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3557'] = {
+                            ['UNIT_162'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 227.5, 19.00116, 278.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_208'] = {
+                            ['UNIT_163'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 224.5, 19.00116, 233.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_37'] = {
+                            ['UNIT_164'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 298.5, 19.00116, 278.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_3587'] = {
+                            ['UNIT_165'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 291.5, 19.00116, 283.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_141'] = {
+                            ['UNIT_166'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 285.5, 19.00116, 261.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_30'] = {
+                            ['UNIT_167'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 223.5, 19.00116, 284.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_3531'] = {
+                            ['UNIT_168'] = {
                                 type = 'UEB1201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 270.5, 19.01288, 224.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_158'] = {
+                            ['UNIT_169'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 250.5, 19.00116, 296.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_8'] = {
+                            ['UNIT_170'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 211.5, 19.00116, 232.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_197'] = {
+                            ['UNIT_171'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 285.5, 19.00116, 278.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_45'] = {
+                            ['UNIT_172'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 300.5, 19.00116, 274.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3512'] = {
+                            ['UNIT_173'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 292.5, 19.00116, 283.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_68'] = {
+                            ['UNIT_174'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 212.5, 19.00116, 250.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3569'] = {
+                            ['UNIT_175'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 269.5, 19.16914, 219.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3556'] = {
+                            ['UNIT_176'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 284.5, 19.00116, 232.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_19'] = {
+                            ['UNIT_177'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 289.5, 19.00507, 225.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3584'] = {
+                            ['UNIT_178'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 289.5, 19.0246, 236.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_105'] = {
+                            ['UNIT_179'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 282.5, 19.00116, 260.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_39'] = {
+                            ['UNIT_180'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 286.5, 19.04804, 225.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_22'] = {
+                            ['UNIT_181'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 222.5, 19.00116, 285.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_38'] = {
+                            ['UNIT_182'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 225.5, 19.00116, 286.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_93'] = {
+                            ['UNIT_183'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 298.5, 19.00116, 261.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_143'] = {
+                            ['UNIT_184'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 235.5, 19.00116, 296.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_159'] = {
+                            ['UNIT_185'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 261.5, 19.16133, 215.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_164'] = {
+                            ['UNIT_186'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 229.5, 19.00116, 232.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_63'] = {
+                            ['UNIT_187'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 287.5, 19.0246, 242.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_118'] = {
+                            ['UNIT_188'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 278.5, 19.00116, 214.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_18'] = {
+                            ['UNIT_189'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 222.5, 19.00116, 286.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3543'] = {
+                            ['UNIT_190'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 218.5, 19.00116, 228.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_11'] = {
+                            ['UNIT_191'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 287.5, 19.04804, 224.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3'] = {
+                            ['UNIT_192'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 289.5, 19.00897, 224.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_86'] = {
+                            ['UNIT_193'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 223.5, 19.00116, 273.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_358'] = {
+                            ['UNIT_194'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 227.5, 19.00116, 279.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3573'] = {
+                            ['UNIT_195'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 233.5, 19.06757, 243.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_15'] = {
+                            ['UNIT_196'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 287.5, 19.04413, 225.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_157'] = {
+                            ['UNIT_197'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 282.5, 19.00116, 278.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_1'] = {
+                            ['UNIT_198'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 301.5, 19.00116, 279.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_26'] = {
+                            ['UNIT_199'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 223.5, 19.00116, 285.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_76'] = {
+                            ['UNIT_200'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 210.5, 19.00116, 249.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_186'] = {
+                            ['UNIT_201'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 249.5, 19.00116, 294.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_6'] = {
+                            ['UNIT_202'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 223.5, 19.00116, 287.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_109'] = {
+                            ['UNIT_203'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 282.5, 19.00116, 261.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_64'] = {
+                            ['UNIT_204'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 212.5, 19.00116, 251.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_31'] = {
+                            ['UNIT_205'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 288.5, 19.0246, 227.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_89'] = {
+                            ['UNIT_206'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 300.5, 19.00116, 265.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_137'] = {
+                            ['UNIT_207'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 283.5, 19.00116, 264.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_46'] = {
+                            ['UNIT_208'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 223.5, 19.00116, 282.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_3550'] = {
+                            ['UNIT_209'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 284.5, 19.00116, 234.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_193'] = {
+                            ['UNIT_210'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 283.5, 19.00116, 274.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_145'] = {
+                            ['UNIT_211'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 286.5, 19.00116, 261.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_182'] = {
+                            ['UNIT_212'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 250.5, 19.00116, 295.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_156'] = {
+                            ['UNIT_213'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 228.5, 19.00507, 246.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_126'] = {
+                            ['UNIT_214'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 277.5, 19.00116, 215.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_110'] = {
+                            ['UNIT_215'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 279.5, 19.00116, 215.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_50'] = {
+                            ['UNIT_216'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 227.5, 19.00116, 286.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_177'] = {
+                            ['UNIT_217'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 283.5, 19.00116, 277.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_2'] = {
+                            ['UNIT_218'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 222.5, 19.00116, 287.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_49'] = {
+                            ['UNIT_219'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 296.5, 19.00116, 278.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_134'] = {
+                            ['UNIT_220'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 278.5, 19.00116, 217.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_90'] = {
+                            ['UNIT_221'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 223.5, 19.00116, 274.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_117'] = {
+                            ['UNIT_222'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 283.5, 19.00116, 260.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_188'] = {
+                            ['UNIT_223'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 228.5, 19.00116, 235.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_3541'] = {
+                            ['UNIT_224'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 206.5, 19.0246, 240.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_146'] = {
+                            ['UNIT_225'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 275.5, 19.00507, 215.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_77'] = {
+                            ['UNIT_226'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 300.5, 19.00116, 262.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_171'] = {
+                            ['UNIT_227'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 263.5, 19.23555, 214.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3575'] = {
+                            ['UNIT_228'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 278.5, 19.00116, 269.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_81'] = {
+                            ['UNIT_229'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 300.5, 19.00116, 263.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_201'] = {
+                            ['UNIT_230'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 286.5, 19.00116, 278.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_205'] = {
+                            ['UNIT_231'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 287.5, 19.00116, 278.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_3585'] = {
+                            ['UNIT_232'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 218.5, 19.00116, 255.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_131'] = {
+                            ['UNIT_233'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 233.5, 19.00116, 295.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_167'] = {
+                            ['UNIT_234'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 262.5, 19.19648, 214.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_70'] = {
+                            ['UNIT_235'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 222.5, 19.00116, 270.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_142'] = {
+                            ['UNIT_236'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 276.5, 19.00116, 215.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_33'] = {
+                            ['UNIT_237'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 300.5, 19.00116, 275.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_184'] = {
+                            ['UNIT_238'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 229.5, 19.00116, 234.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_203'] = {
+                            ['UNIT_239'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 265.5, 19.30587, 215.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_359'] = {
+                            ['UNIT_240'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 293.5, 19.00116, 256.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_120'] = {
+                            ['UNIT_241'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 228.5, 19.04804, 251.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_83'] = {
+                            ['UNIT_242'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 288.5, 19.02851, 239.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_106'] = {
+                            ['UNIT_243'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 279.5, 19.00116, 214.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_9'] = {
+                            ['UNIT_244'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 299.5, 19.00116, 279.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_13'] = {
+                            ['UNIT_245'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 299.5, 19.00116, 278.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_10'] = {
+                            ['UNIT_246'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 224.5, 19.00116, 287.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_132'] = {
+                            ['UNIT_247'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 228.5, 19.02069, 249.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_103'] = {
+                            ['UNIT_248'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 284.5, 19.00116, 241.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_84'] = {
+                            ['UNIT_249'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 211.5, 19.00116, 248.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_3555'] = {
+                            ['UNIT_250'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 242.5, 19.00116, 292.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_124'] = {
+                            ['UNIT_251'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 227.5, 19.01678, 251.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_91'] = {
+                            ['UNIT_252'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 288.5, 19.01288, 237.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_3510'] = {
+                            ['UNIT_253'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 292.5, 19.00116, 256.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_127'] = {
+                            ['UNIT_254'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 234.5, 19.00116, 296.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_195'] = {
+                            ['UNIT_255'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 262.5, 19.21992, 219.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_3526'] = {
+                            ['UNIT_256'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 290.5, 19.00116, 283.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_3563'] = {
+                            ['UNIT_257'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 230.5, 19.00116, 289.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_3549'] = {
+                            ['UNIT_258'] = {
                                 type = 'UEB1201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 241.5, 19.00116, 287.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_133'] = {
+                            ['UNIT_259'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 283.5, 19.00116, 263.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_119'] = {
+                            ['UNIT_260'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 233.5, 19.00116, 297.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_78'] = {
+                            ['UNIT_261'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 223.5, 19.00116, 271.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_122'] = {
+                            ['UNIT_262'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 277.5, 19.00116, 214.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_162'] = {
+                            ['UNIT_263'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 250.5, 19.00116, 297.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_150'] = {
+                            ['UNIT_264'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 274.5, 19.01678, 215.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_60'] = {
+                            ['UNIT_265'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 210.5, 19.00116, 251.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_160'] = {
+                            ['UNIT_266'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 229.5, 19.00116, 233.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_194'] = {
+                            ['UNIT_267'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 249.5, 19.00116, 292.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_99'] = {
+                            ['UNIT_268'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 285.5, 19.00116, 241.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_97'] = {
+                            ['UNIT_269'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 297.5, 19.00116, 261.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_140'] = {
+                            ['UNIT_270'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 228.5, 19.00507, 247.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_123'] = {
+                            ['UNIT_271'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 234.5, 19.00116, 297.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_56'] = {
+                            ['UNIT_272'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 211.5, 19.00116, 251.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_3578'] = {
+                            ['UNIT_273'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 219.5, 19.00116, 228.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_21'] = {
+                            ['UNIT_274'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 301.5, 19.00116, 277.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_25'] = {
+                            ['UNIT_275'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 300.5, 19.00116, 277.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_72'] = {
+                            ['UNIT_276'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 210.5, 19.00116, 250.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_330'] = {
+                            ['UNIT_277'] = {
                                 type = 'UEB5101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 228.5, 19.01678, 248.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_352'] = {
+                            ['UNIT_278'] = {
                                 type = 'UEC1101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 241.5, 19.00116, 283.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_35200'] = {
+                            ['UNIT_279'] = {
                                 type = 'UEC1101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 270.5, 19.00116, 228.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_35201'] = {
+                            ['UNIT_280'] = {
                                 type = 'UEC1101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 281.5, 19.00116, 264.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_35202'] = {
+                            ['UNIT_281'] = {
                                 type = 'UEC1101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 230.5, 19.04804, 247.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_35203'] = {
+                            ['UNIT_282'] = {
                                 type = 'UEC1101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 229.5, 19.00116, 281.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_35204'] = {
+                            ['UNIT_283'] = {
                                 type = 'UEC1101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 282.5, 19.01678, 230.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_35205'] = {
+                            ['UNIT_284'] = {
                                 type = 'UEC1201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 247.5, 19.00116, 278.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_35206'] = {
+                            ['UNIT_285'] = {
                                 type = 'UEC1201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 264.5, 19.00116, 233.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_35207'] = {
+                            ['UNIT_286'] = {
                                 type = 'UEC1201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 247.5, 19.00116, 282.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_35208'] = {
+                            ['UNIT_287'] = {
                                 type = 'UEC1201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 264.5, 19.02851, 229.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_35209'] = {
+                            ['UNIT_288'] = {
                                 type = 'UEC1201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 247.5, 19.00116, 286.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_35210'] = {
+                            ['UNIT_289'] = {
                                 type = 'UEC1201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 264.5, 19.14179, 225.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_35211'] = {
+                            ['UNIT_290'] = {
                                 type = 'UEC1201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 287.5, 19.00116, 269.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_35212'] = {
+                            ['UNIT_291'] = {
                                 type = 'UEC1201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 224.5, 19.00116, 242.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_35213'] = {
+                            ['UNIT_292'] = {
                                 type = 'UEC1201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 299.5, 19.00116, 269.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_35214'] = {
+                            ['UNIT_293'] = {
                                 type = 'UEC1201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 212.5, 19.00116, 242.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_35215'] = {
+                            ['UNIT_294'] = {
                                 type = 'UEC1301',
                                 orders = '',
                                 platoon = '',
                                 Position = { 241.5, 19.00116, 278.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_35216'] = {
+                            ['UNIT_295'] = {
                                 type = 'UEC1301',
                                 orders = '',
                                 platoon = '',
                                 Position = { 270.5, 19.00116, 233.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_35217'] = {
+                            ['UNIT_296'] = {
                                 type = 'UEC1301',
                                 orders = '',
                                 platoon = '',
                                 Position = { 286.5, 19.00116, 259.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_35218'] = {
+                            ['UNIT_297'] = {
                                 type = 'UEC1301',
                                 orders = '',
                                 platoon = '',
                                 Position = { 225.5, 19.00116, 252.5 },
                                 Orientation = { 0, 4.712389, 0 },
                             },
-                            ['UNIT_35219'] = {
+                            ['UNIT_298'] = {
                                 type = 'UEC1301',
                                 orders = '',
                                 platoon = '',
                                 Position = { 297.5, 19.00116, 259.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_35220'] = {
+                            ['UNIT_299'] = {
                                 type = 'UEC1301',
                                 orders = '',
                                 platoon = '',
                                 Position = { 214.5, 19.00116, 252.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_35221'] = {
+                            ['UNIT_300'] = {
                                 type = 'UEC1401',
                                 orders = '',
                                 platoon = '',
                                 Position = { 253.5, 19.00116, 279.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_35222'] = {
+                            ['UNIT_301'] = {
                                 type = 'UEC1401',
                                 orders = '',
                                 platoon = '',
                                 Position = { 258.5, 19.02069, 232.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_35223'] = {
+                            ['UNIT_302'] = {
                                 type = 'UEC1401',
                                 orders = '',
                                 platoon = '',
                                 Position = { 259.5, 19.02851, 279.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_35224'] = {
+                            ['UNIT_303'] = {
                                 type = 'UEC1401',
                                 orders = '',
                                 platoon = '',
                                 Position = { 252.5, 19.00116, 232.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_35225'] = {
+                            ['UNIT_304'] = {
                                 type = 'UEC1501',
                                 orders = '',
                                 platoon = '',
                                 Position = { 217.5, 19.00116, 245.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_35226'] = {
+                            ['UNIT_305'] = {
                                 type = 'UEC1501',
                                 orders = '',
                                 platoon = '',
                                 Position = { 294.5, 19.00116, 266.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_35227'] = {
+                            ['UNIT_306'] = {
                                 type = 'UEC1501',
                                 orders = '',
                                 platoon = '',
                                 Position = { 226.5, 19.00116, 268.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_35228'] = {
+                            ['UNIT_307'] = {
                                 type = 'UEC1501',
                                 orders = '',
                                 platoon = '',
                                 Position = { 285.5, 19.00116, 243.5 },
                                 Orientation = { 0, 1.570796, 0 },
                             },
-                            ['UNIT_35229'] = {
+                            ['UNIT_308'] = {
                                 type = 'XEC1301',
                                 orders = '',
                                 platoon = '',
                                 Position = { 268.5, 19.00116, 271.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_35230'] = {
+                            ['UNIT_309'] = {
                                 type = 'XEC1301',
                                 orders = '',
                                 platoon = '',
@@ -4512,14 +4512,14 @@ Scenario = {
                         orders = '',
                         platoon = '',
                         Units = {
-                            ['UNIT_3589'] = {
+                            ['UNIT_310'] = {
                                 type = 'UEL0401',
                                 orders = '',
                                 platoon = '',
                                 Position = { 225.5, 19.00897, 261.5 },
                                 Orientation = { 0, 5.229665, 0 },
                             },
-                            ['UNIT_3590'] = {
+                            ['UNIT_311'] = {
                                 type = 'UEL0401',
                                 orders = '',
                                 platoon = '',
@@ -4532,14 +4532,14 @@ Scenario = {
                         orders = '',
                         platoon = '',
                         Units = {
-                            ['UNIT_35231'] = {
+                            ['UNIT_312'] = {
                                 type = 'XEA0002',
                                 orders = '',
                                 platoon = '',
                                 Position = { 200.5, 24.59528, 257.5 },
                                 Orientation = { 0, 4.284585, 0 },
                             },
-                            ['UNIT_353'] = {
+                            ['UNIT_313'] = {
                                 type = 'XEA0002',
                                 orders = '',
                                 platoon = '',
@@ -4558,224 +4558,224 @@ Scenario = {
                         orders = '',
                         platoon = '',
                         Units = {
-                            ['UNIT_280'] = {
+                            ['UNIT_314'] = {
                                 type = 'UEB2101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 223.5, 19.00116, 270.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_281'] = {
+                            ['UNIT_315'] = {
                                 type = 'UEB2101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 288.5, 19.04022, 241.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_282'] = {
+                            ['UNIT_316'] = {
                                 type = 'UEB2101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 223.5, 19.00116, 286.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_283'] = {
+                            ['UNIT_317'] = {
                                 type = 'UEB2101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 288.5, 19.0246, 225.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_284'] = {
+                            ['UNIT_318'] = {
                                 type = 'UEB2101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 233.5, 19.00116, 296.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_285'] = {
+                            ['UNIT_319'] = {
                                 type = 'UEB2101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 278.5, 19.00116, 215.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_286'] = {
+                            ['UNIT_320'] = {
                                 type = 'UEB2101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 249.5, 19.00116, 296.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_287'] = {
+                            ['UNIT_321'] = {
                                 type = 'UEB2101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 262.5, 19.2043, 215.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_288'] = {
+                            ['UNIT_322'] = {
                                 type = 'UEB2101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 300.5, 19.00116, 278.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_289'] = {
+                            ['UNIT_323'] = {
                                 type = 'UEB2101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 211.5, 19.00116, 233.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_290'] = {
+                            ['UNIT_324'] = {
                                 type = 'UEB2101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 283.5, 19.00116, 278.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_291'] = {
+                            ['UNIT_325'] = {
                                 type = 'UEB2101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 228.5, 19.00116, 233.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_292'] = {
+                            ['UNIT_326'] = {
                                 type = 'UEB2101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 283.5, 19.00116, 261.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_293'] = {
+                            ['UNIT_327'] = {
                                 type = 'UEB2101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 228.5, 19.03241, 250.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_294'] = {
+                            ['UNIT_328'] = {
                                 type = 'UEB2101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 300.5, 19.00116, 261.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_295'] = {
+                            ['UNIT_329'] = {
                                 type = 'UEB2101',
                                 orders = '',
                                 platoon = '',
                                 Position = { 211.5, 19.00116, 250.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_296'] = {
+                            ['UNIT_330'] = {
                                 type = 'UEB2104',
                                 orders = '',
                                 platoon = '',
                                 Position = { 234.5, 19.00116, 295.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_297'] = {
+                            ['UNIT_331'] = {
                                 type = 'UEB2104',
                                 orders = '',
                                 platoon = '',
                                 Position = { 277.5, 19.00116, 216.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_298'] = {
+                            ['UNIT_332'] = {
                                 type = 'UEB2104',
                                 orders = '',
                                 platoon = '',
                                 Position = { 248.5, 19.00116, 295.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_299'] = {
+                            ['UNIT_333'] = {
                                 type = 'UEB2104',
                                 orders = '',
                                 platoon = '',
                                 Position = { 263.5, 19.25117, 216.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_300'] = {
+                            ['UNIT_334'] = {
                                 type = 'UEB2104',
                                 orders = '',
                                 platoon = '',
                                 Position = { 224.5, 19.00116, 285.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_301'] = {
+                            ['UNIT_335'] = {
                                 type = 'UEB2104',
                                 orders = '',
                                 platoon = '',
                                 Position = { 287.5, 19.03241, 226.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_302'] = {
+                            ['UNIT_336'] = {
                                 type = 'UEB2104',
                                 orders = '',
                                 platoon = '',
                                 Position = { 224.5, 19.00116, 271.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_303'] = {
+                            ['UNIT_337'] = {
                                 type = 'UEB2104',
                                 orders = '',
                                 platoon = '',
                                 Position = { 287.5, 19.01288, 240.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_304'] = {
+                            ['UNIT_338'] = {
                                 type = 'UEB2104',
                                 orders = '',
                                 platoon = '',
                                 Position = { 227.5, 19.00897, 249.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_305'] = {
+                            ['UNIT_339'] = {
                                 type = 'UEB2104',
                                 orders = '',
                                 platoon = '',
                                 Position = { 284.5, 19.00116, 262.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_306'] = {
+                            ['UNIT_340'] = {
                                 type = 'UEB2104',
                                 orders = '',
                                 platoon = '',
                                 Position = { 227.5, 19.00116, 234.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_307'] = {
+                            ['UNIT_341'] = {
                                 type = 'UEB2104',
                                 orders = '',
                                 platoon = '',
                                 Position = { 284.5, 19.00116, 277.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_308'] = {
+                            ['UNIT_342'] = {
                                 type = 'UEB2104',
                                 orders = '',
                                 platoon = '',
                                 Position = { 212.5, 19.00116, 234.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_309'] = {
+                            ['UNIT_343'] = {
                                 type = 'UEB2104',
                                 orders = '',
                                 platoon = '',
                                 Position = { 299.5, 19.00116, 277.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_310'] = {
+                            ['UNIT_344'] = {
                                 type = 'UEB2104',
                                 orders = '',
                                 platoon = '',
                                 Position = { 212.5, 19.00116, 249.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_311'] = {
+                            ['UNIT_345'] = {
                                 type = 'UEB2104',
                                 orders = '',
                                 platoon = '',
@@ -4788,266 +4788,266 @@ Scenario = {
                         orders = '',
                         platoon = '',
                         Units = {
-                            ['UNIT_312'] = {
+                            ['UNIT_346'] = {
                                 type = 'UEB4202',
                                 orders = '',
                                 platoon = '',
                                 Position = { 241.5, 19.00116, 290.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_313'] = {
+                            ['UNIT_347'] = {
                                 type = 'UEB4202',
                                 orders = '',
                                 platoon = '',
                                 Position = { 270.5, 19.0871, 221.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_314'] = {
+                            ['UNIT_348'] = {
                                 type = 'UEB4202',
                                 orders = '',
                                 platoon = '',
                                 Position = { 229.5, 19.00116, 278.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_315'] = {
+                            ['UNIT_349'] = {
                                 type = 'UEB4202',
                                 orders = '',
                                 platoon = '',
                                 Position = { 282.5, 19.00116, 233.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_316'] = {
+                            ['UNIT_350'] = {
                                 type = 'UEB4202',
                                 orders = '',
                                 platoon = '',
                                 Position = { 292.5, 19.00116, 272.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_317'] = {
+                            ['UNIT_351'] = {
                                 type = 'UEB4202',
                                 orders = '',
                                 platoon = '',
                                 Position = { 219.5, 19.00116, 239.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_318'] = {
+                            ['UNIT_352'] = {
                                 type = 'UEB2301',
                                 orders = '',
                                 platoon = '',
                                 Position = { 234.5, 19.00116, 290.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_319'] = {
+                            ['UNIT_353'] = {
                                 type = 'UEB2301',
                                 orders = '',
                                 platoon = '',
                                 Position = { 277.5, 19.01678, 221.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_320'] = {
+                            ['UNIT_354'] = {
                                 type = 'UEB2301',
                                 orders = '',
                                 platoon = '',
                                 Position = { 229.5, 19.00116, 285.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_321'] = {
+                            ['UNIT_355'] = {
                                 type = 'UEB2301',
                                 orders = '',
                                 platoon = '',
                                 Position = { 282.5, 19.06366, 226.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_322'] = {
+                            ['UNIT_356'] = {
                                 type = 'UEB2301',
                                 orders = '',
                                 platoon = '',
                                 Position = { 248.5, 19.00116, 290.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_323'] = {
+                            ['UNIT_357'] = {
                                 type = 'UEB2301',
                                 orders = '',
                                 platoon = '',
                                 Position = { 263.5, 19.22383, 221.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_324'] = {
+                            ['UNIT_358'] = {
                                 type = 'UEB2301',
                                 orders = '',
                                 platoon = '',
                                 Position = { 229.5, 19.00116, 271.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_325'] = {
+                            ['UNIT_359'] = {
                                 type = 'UEB2301',
                                 orders = '',
                                 platoon = '',
                                 Position = { 282.5, 19.00116, 240.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_326'] = {
+                            ['UNIT_360'] = {
                                 type = 'UEB2301',
                                 orders = '',
                                 platoon = '',
                                 Position = { 225.5, 19.00116, 236.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_327'] = {
+                            ['UNIT_361'] = {
                                 type = 'UEB2301',
                                 orders = '',
                                 platoon = '',
                                 Position = { 286.5, 19.00116, 275.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_328'] = {
+                            ['UNIT_362'] = {
                                 type = 'UEB2301',
                                 orders = '',
                                 platoon = '',
                                 Position = { 214.5, 19.00116, 236.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_329'] = {
+                            ['UNIT_363'] = {
                                 type = 'UEB2301',
                                 orders = '',
                                 platoon = '',
                                 Position = { 297.5, 19.00116, 275.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_331'] = {
+                            ['UNIT_364'] = {
                                 type = 'UEB2204',
                                 orders = '',
                                 platoon = '',
                                 Position = { 236.5, 19.00116, 293.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_332'] = {
+                            ['UNIT_365'] = {
                                 type = 'UEB2204',
                                 orders = '',
                                 platoon = '',
                                 Position = { 275.5, 19.00116, 218.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_333'] = {
+                            ['UNIT_366'] = {
                                 type = 'UEB2204',
                                 orders = '',
                                 platoon = '',
                                 Position = { 226.5, 19.00116, 283.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_334'] = {
+                            ['UNIT_367'] = {
                                 type = 'UEB2204',
                                 orders = '',
                                 platoon = '',
                                 Position = { 285.5, 19.03241, 228.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_335'] = {
+                            ['UNIT_368'] = {
                                 type = 'UEB2204',
                                 orders = '',
                                 platoon = '',
                                 Position = { 214.5, 19.00116, 247.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_336'] = {
+                            ['UNIT_369'] = {
                                 type = 'UEB2204',
                                 orders = '',
                                 platoon = '',
                                 Position = { 297.5, 19.00116, 264.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_337'] = {
+                            ['UNIT_370'] = {
                                 type = 'UEB4201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 246.5, 19.00116, 293.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_338'] = {
+                            ['UNIT_371'] = {
                                 type = 'UEB4201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 265.5, 19.28243, 218.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_339'] = {
+                            ['UNIT_372'] = {
                                 type = 'UEB4201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 234.5, 19.00116, 285.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_340'] = {
+                            ['UNIT_373'] = {
                                 type = 'UEB4201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 277.5, 19.03632, 226.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_341'] = {
+                            ['UNIT_374'] = {
                                 type = 'UEB4201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 226.5, 19.00116, 273.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_342'] = {
+                            ['UNIT_375'] = {
                                 type = 'UEB4201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 285.5, 19.00116, 238.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_343'] = {
+                            ['UNIT_376'] = {
                                 type = 'UEB4201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 225.5, 19.00116, 247.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_344'] = {
+                            ['UNIT_377'] = {
                                 type = 'UEB4201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 286.5, 19.00116, 264.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_345'] = {
+                            ['UNIT_378'] = {
                                 type = 'UEB4201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 219.5, 19.00116, 236.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_346'] = {
+                            ['UNIT_379'] = {
                                 type = 'UEB4201',
                                 orders = '',
                                 platoon = '',
                                 Position = { 292.5, 19.00116, 275.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_347'] = {
+                            ['UNIT_380'] = {
                                 type = 'UEB2108',
                                 orders = '',
                                 platoon = '',
                                 Position = { 238.5, 19.00507, 280.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_348'] = {
+                            ['UNIT_381'] = {
                                 type = 'UEB2108',
                                 orders = '',
                                 platoon = '',
                                 Position = { 273.5, 19.00116, 231.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_349'] = {
+                            ['UNIT_382'] = {
                                 type = 'UEB2108',
                                 orders = '',
                                 platoon = '',
                                 Position = { 221.5, 19.00116, 245.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_350'] = {
+                            ['UNIT_383'] = {
                                 type = 'UEB2108',
                                 orders = '',
                                 platoon = '',
@@ -5060,84 +5060,84 @@ Scenario = {
                         orders = '',
                         platoon = '',
                         Units = {
-                            ['UNIT_351'] = {
+                            ['UNIT_384'] = {
                                 type = 'UEB1301',
                                 orders = '',
                                 platoon = '',
                                 Position = { 233.5, 19.00116, 278.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_35232'] = {
+                            ['UNIT_385'] = {
                                 type = 'UEB1301',
                                 orders = '',
                                 platoon = '',
                                 Position = { 278.5, 19.00507, 233.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_35233'] = {
+                            ['UNIT_386'] = {
                                 type = 'XEB2306',
                                 orders = '',
                                 platoon = '',
                                 Position = { 244.5, 19.00116, 286.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_35234'] = {
+                            ['UNIT_387'] = {
                                 type = 'XEB2306',
                                 orders = '',
                                 platoon = '',
                                 Position = { 267.5, 19.07148, 225.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_35235'] = {
+                            ['UNIT_388'] = {
                                 type = 'XEB2306',
                                 orders = '',
                                 platoon = '',
                                 Position = { 231.5, 19.00116, 274.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_35236'] = {
+                            ['UNIT_389'] = {
                                 type = 'XEB2306',
                                 orders = '',
                                 platoon = '',
                                 Position = { 280.5, 19.00116, 237.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_35237'] = {
+                            ['UNIT_390'] = {
                                 type = 'XEB2306',
                                 orders = '',
                                 platoon = '',
                                 Position = { 286.5, 19.00116, 266.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_35238'] = {
+                            ['UNIT_391'] = {
                                 type = 'XEB2306',
                                 orders = '',
                                 platoon = '',
                                 Position = { 225.5, 19.00116, 245.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_35239'] = {
+                            ['UNIT_392'] = {
                                 type = 'UEB2304',
                                 orders = '',
                                 platoon = '',
                                 Position = { 238.5, 19.00116, 282.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_35240'] = {
+                            ['UNIT_393'] = {
                                 type = 'UEB2304',
                                 orders = '',
                                 platoon = '',
                                 Position = { 273.5, 19.00507, 229.5 },
                                 Orientation = { 0, 3.141593, 0 },
                             },
-                            ['UNIT_35241'] = {
+                            ['UNIT_394'] = {
                                 type = 'UEB2304',
                                 orders = '',
                                 platoon = '',
                                 Position = { 217.5, 19.00116, 242.5 },
                                 Orientation = { 0, 0, 0 },
                             },
-                            ['UNIT_35242'] = {
+                            ['UNIT_395'] = {
                                 type = 'UEB2304',
                                 orders = '',
                                 platoon = '',
