@@ -1,6 +1,6 @@
 version = 3 -- Lua Version. Dont touch this
 ScenarioInfo = {
-    name = "Ultimate_Phenom_Spartiate",
+    name = "Ultimate Phenom Spartiate",
     description = "                                                                                                                                                                                                                                 ",
     preview = '',
     map_version = 1,
