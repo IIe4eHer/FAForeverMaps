@@ -4,6 +4,7 @@ ScenarioInfo = {
     description = "                                                                                                                                                                                                                                 ",
     preview = '',
     map_version = 1,
+    AdaptiveMap = true,
     type = 'skirmish',
     starts = true,
     size = {512, 512},
